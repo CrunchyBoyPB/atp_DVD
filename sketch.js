@@ -1,4 +1,4 @@
-let stop = 2;     //pixels range for victory
+let stop = 0.5;     //pixels range for victory
                   //bigger number = victory is easier
 
 let speed = 0.5;  //movement speed of the logo
