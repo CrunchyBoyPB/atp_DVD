@@ -52,7 +52,7 @@ function setSpeed()
   yspeed = movespeed;
 }
 
-function mouseClicked() {
+function doubleClicked() {
   cursor(ARROW);
 }
 
