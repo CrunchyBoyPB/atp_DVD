@@ -52,6 +52,10 @@ function setSpeed()
   yspeed = movespeed;
 }
 
+function mouseClicked() {
+  cursor(ARROW);
+}
+
 function keyPressed() {
   if (key === ESCAPE) {
     cursor(ARROW);
